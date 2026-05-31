@@ -9,9 +9,11 @@ dependencies = [
     "isort>=8.0.1",
     "kiteconnect>=5.2.0",
     "pandas>=3.0.3",
+    "plotly>=6.7.0",
     "polars>=1.41.2",
     "pyotp>=2.9.0",
     "ratelimit>=2.2.1",
     "selenium>=4.44.0",
     "sqlalchemy>=2.0.50",
+    "streamlit>=1.58.0",
 ]

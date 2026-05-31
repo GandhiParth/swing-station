@@ -25,7 +25,7 @@ class ComputeConfig(EditConfig):
     PULLBACK_FILTER_PARQ_PATH = "pullback_filter_data.parquet"
     FILTER_RESULT_PATH = "overall_filter_result_data.csv"
 
-    STOCKS_RS_PATH = "stocks_relative_strength.csv"
+    STOCKS_RS_PATH = "stocks_relatove_strength.csv"
     STOCKS_DSP_PATH = "stocks_dispersion_score.csv"
 
     BASIC_SHORT_SCAN_PATH = "short_basic_scan_data.csv"
